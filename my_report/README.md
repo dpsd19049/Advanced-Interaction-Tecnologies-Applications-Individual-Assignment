@@ -1,9 +1,9 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
+### First and Last Name: Konstantinos Karyotis
+### University Registration Number: dpsd19049
+### GitHub Personal Profile: https://github.com/dpsd19049
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/dpsd19049/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
 
