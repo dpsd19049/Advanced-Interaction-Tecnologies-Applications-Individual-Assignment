@@ -11,7 +11,8 @@
 
 
 # 1st Deliverable
-
+1. Video Capture
+   Μελέτησα το tutorial από το link που μας δώθηκε και στη συνέχεια έτρεξα το Example 16-1 από το Learning Processing, 2nd Edition.
 
 # 2nd Deliverable
 
