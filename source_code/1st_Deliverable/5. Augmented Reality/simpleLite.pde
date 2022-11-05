@@ -23,7 +23,7 @@ void setup() {
   println(MultiMarker.VERSION);
   cam=new Capture(this,640,480);
   nya=new MultiMarker(this,width,height,"../../data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
-  nya.addARMarker("../../data/patt.hiro",80);
+  nya.addARMarker("../../data/patt.hiro",-80);
   cam.start();
   img = loadImage("aug_real_dpsd.jpg");
 }
