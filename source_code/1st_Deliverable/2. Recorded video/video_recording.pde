@@ -1,7 +1,7 @@
 import processing.video.*;
 Movie movie;
 void setup() {
- size(320, 240);
+ size(360, 440);
  movie = new Movie(this, "plane.mov");
 
  movie.loop();
