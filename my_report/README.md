@@ -26,6 +26,9 @@
 Άνοιξα το Processing, πήγα στις βιβλιοθήκες και κατέβασα την NyARToolkit. Στη συνέχεια δημιούργησα έναν φάκελο data όπου έβαλα μια φωτογραφία μου. Τέλος άνοιξα το παράδειγμα simpleLite και το επεξεργάστηκα βάσει αυτών που γνωρίζω από προηγούμενα παραδείγματα, ώστε να βγει το τελικό αποτέλεσμα.
 # 2nd Deliverable
 
+1. Background Removal:
+Αρχικά μελέτησα το Example 16-12 από το βιβλίο Learning Processing, 2nd Edition. Έτρεξα το example στο πρόγραμμα Processing από τις ήδη υπάρχουσες libraries, πρόσθεσα στον κώδικα την εικόνα και την εντολή background removal. Και τέλος άλλαξα στην else το color σε backgroundReplace.pixels. Επίσης δημιούργησα φάκελο στο github με όνομα data ώστε να προσθέσω την εικόνα.
+
 
 # 3rd Deliverable 
 
