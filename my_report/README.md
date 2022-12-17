@@ -29,7 +29,7 @@
 1.Background Removal:
 Αρχικά μελέτησα το Example 16-12 από το βιβλίο Learning Processing, 2nd Edition. Έτρεξα το example στο πρόγραμμα Processing από τις ήδη υπάρχουσες libraries, πρόσθεσα στον κώδικα την εικόνα και την εντολή background removal. Και τέλος άλλαξα στην else το color σε backgroundReplace.pixels. Επίσης δημιούργησα φάκελο στο github με όνομα data ώστε να προσθέσω την εικόνα.
 
-2.Motion Detection
+2.Motion Detection:
 Έτρεξα τα examples 16-11 και 16-13 ώστε να υλοποιήσω την exercise 16-7. Ύστερα έτρεξα στην Processing την exercise 16-7 από τα examples και έκανα τις απαραίτητες αλλαγές(αλλαγή στο avg και στο χρώμα).
 
 
