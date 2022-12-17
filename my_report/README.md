@@ -32,6 +32,9 @@
 2.Motion Detection:
 Έτρεξα τα examples 16-11 και 16-13 ώστε να υλοποιήσω την exercise 16-7. Ύστερα έτρεξα στην Processing την exercise 16-7 από τα examples και έκανα τις απαραίτητες αλλαγές(αλλαγή στο avg και στο χρώμα).
 
+3.Background Substraction:
+Αρχικά κατέβασα την OpenCV for Processing. Μετά έτρεξα το παράδειγμα Background Substraction και μελέτησα το example 16-1 του Learning Processing, 2nd Edition ώστε να χρησιμοποιήσω το capture για να ανοίξει η κάμερα. Τέλος άλλαξα τα χρώματα.
+Πλεονεκτήματα OpenCV: Έυκολη εγκατάσταση, αναγνώριση κίνησης. Μειονεκτήματα: Εγκατάσταση OpenCV.
 
 
 # 3rd Deliverable 
