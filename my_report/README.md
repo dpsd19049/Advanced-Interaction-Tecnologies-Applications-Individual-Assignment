@@ -99,7 +99,7 @@ Bonus 1 deliverable 3:
  PVector rightHand = new PVector();
  PVector convertedRightHand = new PVector();
 
-
+https://user-images.githubusercontent.com/100956280/212210626-9eacdd38-300a-440e-993f-cb3f1aa64fda.mp4
 
 # Conclusions
 Η διαδικασία υλοποίησης των παραπάνω παραδοτέων πραγματοποιήθηκε έπειτα από πολύωρη προσπάθεια και μετά από πολλές δοκιμές και αλλαγες στον κώδικα.
