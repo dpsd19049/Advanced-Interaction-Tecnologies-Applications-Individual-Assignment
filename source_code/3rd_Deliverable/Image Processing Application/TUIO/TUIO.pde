@@ -139,9 +139,6 @@ if (tobj.getSymbolID()==0)
 
   }
   
-
- 
-  
 }
 
 // called at the end of each TUIO frame
