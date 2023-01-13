@@ -100,7 +100,6 @@ void draw()
  
 }
 
-// --------------------------------------------------------------
 // these callback methods are called whenever a TUIO event occurs
 // there are three callbacks for add/set/del events for each object/cursor/blob type
 // the final refresh callback marks the end of each TUIO frame
@@ -145,12 +144,6 @@ if (tobj.getSymbolID()==0)
   
 }
 
-
-
-
-
-
-// --------------------------------------------------------------
 // called at the end of each TUIO frame
 void refresh(TuioTime frameTime) {
   if (verbose) println("frame #"+frameTime.getFrameID()+" ("+frameTime.getTotalMilliseconds()+")");
