@@ -41,14 +41,15 @@
 Μειονεκτήματα: Η χρήση ποντικιού παρέχει περισσότερη ακρίβεια. 
 
 # 3rd Deliverable 
-1. reacTIVation-Installation:
+1.reacTIVation-Installation:
 
 1. Έκανα εγκατάσταση της εφαρμογής reacTIVation vision engine.
 2. Έκανα export files και τοποθέτησα τον φάκελο στο libraries της Processing.
 3. Έκανα εγκατάσταση την εφαρμογή TUIO Simulator.
 4. Εγκατέστησα το Java Runtime Environment και με τη βοήθεια ενός ισπανικού βίντεο στο Youtube κατάλαβα πως έπρεπε να τρέξω το παράδειγμα TUIO Demo με τη χρήση του Simulator.
 
-2. Image Processing Application:
+
+2.Image Processing Application:
 Αρχικά μελέτησα τον κώδικα του TUIO Demo για να δω ποιες αλλαγές πρέπει να κάνω. Στη συνέχεια εκτύπωσα τα fidusials και πήρα το φίλτρο όπου η εικόνα γίνεται σκοτεινότερη ανάλογα με το πόσο θέλει ο χρήστης από την επίσημη ιστοσελίδα της Processing.
 
 
